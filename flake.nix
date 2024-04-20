@@ -17,7 +17,7 @@
     # Flake options
     enableBPF = true;
     enableRust = true;
-    enableEditor = true;
+    enableEditor = false;
     enableGdb = true;
     useRustForLinux = false;
 
